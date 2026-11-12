@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "latestVersion": "1.1",
   "required": true,
   "message": "Đã có bản cập nhật mới. Vui lòng tải bản mới để có nhiều chức năng mới hơn.",
